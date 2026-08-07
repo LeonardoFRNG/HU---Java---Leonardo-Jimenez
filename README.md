@@ -1,4 +1,4 @@
-# ☕ Historias de Usuario - Java
+# Historias de Usuario - Java
 
 Repositorio destinado al desarrollo y documentación de las **Historias de Usuario (HU)** del proceso de formación en **Java**, implementando conceptos fundamentales del lenguaje y las características incorporadas en sus versiones más recientes (Java 11, 17 y 21).
 
